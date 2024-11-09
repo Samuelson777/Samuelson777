@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning DS
 - 💞️ I’m looking to collaborate on Healthcare predictions
-- 📫 How to reach me-Email
+- 📫 How to reach me- gsamuelsonguna@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Knowledge is power
 
