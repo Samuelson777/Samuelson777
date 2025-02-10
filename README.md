@@ -1,6 +1,7 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelson-g-6052a1189/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@SAMUELSONG-b4m) <a href="https://godwinthesaver.blogspot.com/" style="text-decoration: none;">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelson-g-6052a1189/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@SAMUELSONG-b4m) 
+<a href="https://godwinthesaver.blogspot.com/" style="text-decoration: none;">
     <span style="background-color: #F4B400; color: white; padding: 5px 10px; border-radius: 5px; font-family: Arial, sans-serif;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Blogger_logo_2021.svg/1200px-Blogger_logo_2021.svg.png" alt="Blog" style="height: 20px; vertical-align: middle; margin-right: 5px;">
         Blog
